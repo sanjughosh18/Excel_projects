@@ -1,4 +1,4 @@
-# Excel_projects 1
+# Coffee_shop_Dashboard
 I have analyzed and visualized data for a coffee shop, creating an interactive Excel dashboard. This includes:
 
 - An hourly line chart to describe sales trends throughout the day.
